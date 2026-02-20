@@ -1,5 +1,5 @@
 # here is the link:
-[link](https://basicloginformcss.netlify.app)
+[link](https://basicloginpagecss.netlify.app)
 
 # preview image:
-![Alt Text](screenshotblfcss.png)
+![Alt Text](screenshotblpcss.png)
